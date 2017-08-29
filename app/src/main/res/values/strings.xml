@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HngProfile</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_share">Share</string>
+    <string name="andy_eshiet">Andy Eshiet</string>
+    <string name="phone_number">08120088124</string>
+    <string name="slack">mathemandy</string>
+    <string name="Github">mathemandy</string>
+    <string name="username">mathemandy</string>
+    <string name="About">Android Developer, Computer Science Student of University of Uyo.\n
+        I Believe Discovery involves Experimentation</string>
+</resources>
